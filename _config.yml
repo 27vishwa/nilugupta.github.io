@@ -1,0 +1,11 @@
+# Base configs
+baseurl: ""
+
+# UI configs
+title: "Nilisha Gupta"
+name: "Nilisha Gupta"
+bio: "A Librocubicularist,Singer"
+social_urls:
+  facebook: "https://www.facebook.com/nilisha.gupta.127"
+  twitter: "#"
+  instagram: "https://www.instagram.com/nilisha_gupta_19"
